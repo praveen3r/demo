@@ -1,2 +1,2 @@
-testing conflicts and resolving them
+resolving conflicts
 
