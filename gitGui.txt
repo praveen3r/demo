@@ -1,2 +1,2 @@
-first conflict in merge
+resolving conflict in merge
 
