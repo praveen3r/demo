@@ -1,2 +1,2 @@
-first commit in branch
+resolving conflict in merge
 
